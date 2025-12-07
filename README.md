@@ -1,5 +1,10 @@
 # Tanishka Engineering Platform
 
+
+https://github.com/user-attachments/assets/f41bfacd-1b03-4a0a-a24c-e0b86903cb5b
+
+
+
 A full‑stack monorepo powering the public Tanishka Engineering website and a secure admin operations panel with advanced photo management and carousel features.
 
 > Backend: Node.js (Express 4.19.2) + MongoDB + ImageKit + Email Service  \
@@ -492,7 +497,7 @@ Enable CORS only for approved origins in production (whitelist admin + public do
 ## 📄 License
 Add your chosen license (MIT recommended for open collaboration). Create a `LICENSE` file at root.
 
-https://github.com/user-attachments/assets/f41bfacd-1b03-4a0a-a24c-e0b86903cb5b
+
 
 ---
 ## 🙋 Support / Contact
