@@ -492,6 +492,8 @@ Enable CORS only for approved origins in production (whitelist admin + public do
 ## 📄 License
 Add your chosen license (MIT recommended for open collaboration). Create a `LICENSE` file at root.
 
+https://github.com/user-attachments/assets/f41bfacd-1b03-4a0a-a24c-e0b86903cb5b
+
 ---
 ## 🙋 Support / Contact
 For internal use: reach the platform maintainer or open a GitHub issue.
