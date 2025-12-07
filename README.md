@@ -4,6 +4,11 @@
 
 
 
+https://github.com/user-attachments/assets/95b09c3f-483b-4341-9a12-6b8ca26bf402
+
+
+
+
 
 A full‑stack monorepo powering the public Tanishka Engineering website and a secure admin operations panel with advanced photo management and carousel features.
 
