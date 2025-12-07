@@ -1,7 +1,7 @@
 # Tanishka Engineering Platform
 
 
-https://github.com/user-attachments/assets/f41bfacd-1b03-4a0a-a24c-e0b86903cb5b
+
 
 
 
